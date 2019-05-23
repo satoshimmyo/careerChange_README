@@ -1,6 +1,4 @@
-# careerChange_ReadMe
-
-## 転職先の会社に求めるもの
+# 転職先の会社に求めるもの
 
 ### モダンJsフレームワークを使用していること。
 React,Vue,Angularは問わない。  
