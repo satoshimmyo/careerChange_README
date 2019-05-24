@@ -64,5 +64,11 @@ AWS GCPを横断したシステムの運用や、クライアントの高い要�
 趣味で最近はReactNative、laravelを触っています。
 
 
+# その他
+- 趣味  
+ゲーム、アニメ、ロードバイク  
+
+- ブログ  
+https://www.over-kill.net/
 
 
