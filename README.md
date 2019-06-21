@@ -76,6 +76,10 @@ typoミスなど軽微なものですが、[OSSへのプルリク](https://githu
 ### 環境
 - AWS （EC2,S3） .5月  
 - GCP (BigQuery) .5月  
+### その他
+- Webpack 
+- Gulp
+- docker
 
 # その他
 - 趣味  
