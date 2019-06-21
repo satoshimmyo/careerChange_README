@@ -67,13 +67,15 @@ AWS GCPを横断したシステムの運用や、クライアントの高い要�
 typoミスなど軽微なものですが、[OSSへのプルリク](https://github.com/30-seconds/30-seconds-of-code/pull/982)を送り、日々精進しています。
 
 ## スキルマップ
+### 言語
 - HTML5 2年
 - CSS(SCSS) 2年
 - JavaScript(VanilaJs,jQuery) 2年
 - WordPress 2年
 - React,Vue,laravel 独学(一部業務経験あり) .5月
-- AWS （EC2,S3） 業務経験あり
-- GCP (BigQuery) 業務経験あり
+### 環境
+- AWS （EC2,S3） .5月  
+- GCP (BigQuery) .5月  
 
 # その他
 - 趣味  
