@@ -81,7 +81,7 @@ typoミスなど軽微なものですが、[OSSへのプルリク](https://githu
 - Gulp
 - docker
 
-# その他
+# もろもろ
 - 趣味  
 ゲーム、アニメ、ロードバイク,キーボード
 
@@ -93,6 +93,8 @@ https://codesandbox.io/u/TakuyaTaniguchi
 
 - CodePen  
 https://codepen.io/Rin_T_T/
+
+
 
 
 
