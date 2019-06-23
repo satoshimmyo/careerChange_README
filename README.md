@@ -21,8 +21,8 @@ AWS GCPを横断したシステムの運用や、クライアントの高い要�
 好きな言語はJavaScript です。  
 趣味で最近は[ReactNative](https://github.com/TakuyaTaniguchi/ReactNativeApp)、[laravel](https://github.com/TakuyaTaniguchi/laravel-react)を触っています。  
 typoミスなど軽微なものですが、[OSSへのプルリク](https://github.com/30-seconds/30-seconds-of-code/pull/982)を送り、日々精進しています。
-新しい技術を学び、実践し、エラーがあれば英語ドキュメントを読むなど、基本的なことは  
-備わっていると考えています。　モダンな技術を仕事で使いたい、より高度なことを学びたい一心で転職活動しています。
+日々技術を学び、エラーがあれば英語ドキュメントを読むなど、基本的なことはある程度備わっていると考えています。  
+モダンな技術を仕事で使いたい、より高度なことを学びたい一心で転職活動しています。
 ## スキルマップ
 ### 言語
 - HTML5 2年
