@@ -29,10 +29,13 @@ typoミスなど軽微なものですが、[OSSへのプルリク](https://githu
 - CSS(SCSS) 2年
 - JavaScript(VanilaJs,jQuery) 2年
 - WordPress 2年
-- React,Vue,laravel 独学(一部業務経験あり) .5月
+- React,Vue(業務アプリ制作,webサイト保守) 業務経験いくつか
+- ReactNative　独学
+- laravel 独学
+- Nuxt 独学  
 ### 環境
-- AWS （EC2,S3） .5月  
-- GCP (BigQuery) .5月  
+- AWS （EC2,S3）
+- GCP (BigQuery)  
 ### その他
 - Webpack 
 - Gulp
@@ -48,9 +51,6 @@ typoミスなど軽微なものですが、[OSSへのプルリク](https://githu
 React,Vue,Angularは問わない。  
 javascriptが好きで、より技術を深め、アプリケーションの技術を高めたい為  
 PHP,Ruby,Goなどサーバサイドの業務も参加できるとなお嬉しい。  
-※フレームワークではなく、プレーンなjavascriptやNode.jsで高度なことに挑戦
-している。  
-などであれば興味があります。  
 
 ### 勤務先について
 都内、都内近郊が良い。
