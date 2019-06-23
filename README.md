@@ -17,12 +17,12 @@ Web部門に異動する。
 ## 自己PR
 初めはHTMLすら、まともに書けない状態ですが、一つ一つ調べ、勉強し  
 AWS GCPを横断したシステムの運用や、クライアントの高い要望に答えてきました。  
-新たなフィールドを目指して転職活動中ですが、エンジニアとしての素質や基本は備わっていると思っています。  
 現職でも残業が100時間を超えることが多々ありますが、それでも休憩時間や、休日に勉強するくらいには技術に夢中になることができます。  
 好きな言語はJavaScript です。  
-趣味で最近はReactNative、laravelを触っています。  
+趣味で最近は[ReactNative](https://github.com/TakuyaTaniguchi/ReactNativeApp)、[laravel](https://github.com/TakuyaTaniguchi/laravel-react)を触っています。  
 typoミスなど軽微なものですが、[OSSへのプルリク](https://github.com/30-seconds/30-seconds-of-code/pull/982)を送り、日々精進しています。
-
+新しい技術を学び、実践し、エラーがあれば英語ドキュメントを読むなど、基本的なことは  
+備わっていると考えています。　モダンな技術を仕事で使いたい、より高度なことを学びたい一心で転職活動しています。
 ## スキルマップ
 ### 言語
 - HTML5 2年
