@@ -28,7 +28,8 @@ typoミスなど軽微なものですが、[OSSへのプルリク](https://githu
 - HTML5 2年
 - CSS(SCSS) 2年
 - JavaScript(VanilaJs,jQuery) 2年
-- WordPress 2年
+- WordPress(PHP) 2年
+- Node
 - React,Vue(業務アプリ制作,webサイト保守) 業務経験いくつか
 - ReactNative　独学
 - laravel 独学
