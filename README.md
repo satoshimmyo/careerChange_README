@@ -19,7 +19,7 @@ Web部門に異動する。
 AWS GCPを横断したシステムの運用や、クライアントの高い要望に答えてきました。  
 現職でも残業が100時間を超えることが多々ありますが、それでも休憩時間や、休日に勉強するくらいには技術に夢中になることができます。  
 好きな言語はJavaScript です。  
-趣味で最近は[ReactNative](https://github.com/TakuyaTaniguchi/ReactNativeApp)、[laravel](https://github.com/TakuyaTaniguchi/laravel-react)を触っています。  
+趣味で最近は[ReactNative](https://github.com/TakuyaTaniguchi/ReactNativeApp)、[laravel](https://github.com/TakuyaTaniguchi/laravel-react)を触っていますが、基本は[興味がある言語をとりあえず触ってみることが多いです。](https://github.com/TakuyaTaniguchi?tab=repositories)  
 typoミスなど軽微なものですが、[OSSへのプルリク](https://github.com/30-seconds/30-seconds-of-code/pull/982)を送り、日々精進しています。  
 仕事以外でも技術を学び、エラーがあれば英語ドキュメントを読むなど、基本的なことはある程度備わっていると考えています。  
 モダンな技術を仕事で使いたい、より高度なことを学びたい一心で転職活動しています。
