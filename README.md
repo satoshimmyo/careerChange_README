@@ -44,7 +44,7 @@ typoミスなど軽微なものですが、[OSSへのプルリク](https://githu
 - React,Vue(業務アプリ制作,webサイト保守) 業務経験いくつか
 - ReactNative　独学
 - laravel 独学
-- Nuxt 独学  
+- [Nuxt](https://github.com/TakuyaTaniguchi/MovieStocker) 独学  
 ### 環境
 - AWS （EC2,S3）
 - GCP (BigQuery)  
