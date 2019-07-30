@@ -48,6 +48,8 @@ typoミスなど軽微なものですが、[OSSへのプルリク](https://githu
 ### 環境
 - AWS （EC2,S3）
 - GCP (BigQuery)  
+- Netlify  
+- Firebase  
 ### その他
 - Webpack 
 - Gulp
