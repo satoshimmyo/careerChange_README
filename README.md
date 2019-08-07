@@ -46,7 +46,7 @@ CSSもバリバリかけると嬉しいです。
 - JavaScript(VanilaJs,jQuery) 2年
 - WordPress(PHP) 2年
 - Node
-- React,Vue(業務アプリ制作,webサイト保守) 業務経験いくつか
+- React,Vue  
 - ReactNative　独学
 - laravel 独学
 - [Nuxt](https://github.com/TakuyaTaniguchi/MovieStocker) 独学  
