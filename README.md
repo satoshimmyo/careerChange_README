@@ -54,7 +54,7 @@ Go,laravelの勉強も始めているため,
 - Node
 - React,Vue  
 - ReactNative　独学
-- laravel 独学
+- [laravel](http://laraveltodo.littledemon.pw/login) 独学
 - [Nuxt](https://github.com/TakuyaTaniguchi/MovieStocker) 独学  
 ### 環境
 - AWS （EC2,S3）
