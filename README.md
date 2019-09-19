@@ -84,8 +84,8 @@ Go,laravelの勉強も始めているため,
 - 趣味  
 ゲーム、アニメ、ロードバイク,キーボード
 
-- ブログ  
-https://www.over-kill.net/
+- ポートフォリオ
+https://portfolio.littledemon.pw
 
 - CodeSandbox  
 https://codesandbox.io/u/TakuyaTaniguchi
@@ -93,14 +93,8 @@ https://codesandbox.io/u/TakuyaTaniguchi
 - CodePen    
 https://codepen.io/Rin_T_T/
 
-- Qiita  
-https://qiita.com/RinT_T
-
 - Dev.to  
 https://dev.to/rinstarskykujat
-
-- ScraoBox  
-https://scrapbox.io/rin-works/
 
 
 
