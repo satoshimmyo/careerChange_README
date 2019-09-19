@@ -84,7 +84,7 @@ Go,laravelの勉強も始めているため,
 - 趣味  
 ゲーム、アニメ、ロードバイク,キーボード
 
-- ポートフォリオ
+- ポートフォリオ  
 https://portfolio.littledemon.pw
 
 - CodeSandbox  
